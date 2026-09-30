@@ -27,7 +27,6 @@ def generate_page(from_path, template_path, dest_path, basepath):
     full_html = template_content.replace("{{ Title }}", title)
     full_html = full_html.replace("{{ Content }}", html_content)
 
-    # Ye naya logic basepath replace karne ke liye
     full_html = full_html.replace('href="/', f'href="{basepath}')
     full_html = full_html.replace('src="/', f'src="{basepath}')
 
