@@ -7,7 +7,7 @@
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Tests](https://img.shields.io/badge/Tests-unittest-success?style=for-the-badge)
 
-**[Live Demo](https://rwxgauravpandey.github.io/static-site-generator/)** · **[Source Code](https://github.com/rwxgauravpandey/static-site-generator)** · **[Report a Bug](https://github.com/rwxgauravpandey/static-site-generator/issues)**
+**[Live Demo](https://rwxgauravpandey.github.io/markdown-static-site-generator/)** · **[Source Code](https://github.com/rwxgauravpandey/static-site-generator)** · **[Report a Bug](https://github.com/rwxgauravpandey/static-site-generator/issues)**
 
 ---
 
